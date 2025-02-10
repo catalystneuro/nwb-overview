@@ -19,10 +19,6 @@ MatLab package and supports MNE Python, NWB and FieldTrip data formats.
 
 .. short_description_end
 
-.. image:: syncopy_logo.png
-    :class: align-left
-    :width: 400
-
 SyNCoPy (Systems Neuroscience Computing in Python, spelled Syncopy in the following) is a Python toolkit for user-friendly, large-scale electrophysiology data analysis. It strives to achieve the following goals:
 
 Syncopy provides a full open source Python environment for reproducible electrophysiology data analysis.
@@ -32,3 +28,7 @@ Syncopy is scalable to accommodate very large datasets. It automatically makes u
 Syncopy is compatible with the MATLAB toolbox `FieldTrip <https://www.fieldtriptoolbox.org/>`_.
 
 Syncopy supports reading data from NWB and exporting data to NWB. See `Syncopy Data Basics <https://syncopy.readthedocs.io/en/latest/user/data_basics.html>`_ for more information.
+
+.. image:: syncopy_logo.png
+    :class: align-left
+    :width: 400
